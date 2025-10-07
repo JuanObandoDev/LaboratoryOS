@@ -5,7 +5,7 @@
 ## 🏫 Universidad CESMAG  
 **Espacio académico:** Sistemas Operativos  
 **Docente:** Joan Ayala  
-**Estudiante:** Juan Obando 
+**Estudiante:** Juan Obando  
 **Fecha:** 07 Octubre 2025  
 
 ---
