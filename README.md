@@ -4,9 +4,9 @@
 
 ## 🏫 Universidad CESMAG  
 **Espacio académico:** Sistemas Operativos  
-**Docente:** *(Nombre del docente si deseas incluirlo)*  
-**Estudiante:** Juan  
-**Fecha:** Octubre 2025  
+**Docente:** Joan Ayala  
+**Estudiante:** Juan Obando 
+**Fecha:** 07 Octubre 2025  
 
 ---
 
