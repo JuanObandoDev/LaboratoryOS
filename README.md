@@ -46,6 +46,4 @@ Este laboratorio tiene como objetivo aplicar conceptos de programación de rutin
 
 ### 🔧 Diagrama de conexión
 
-📷 *Inserta aquí una imagen del circuito en Tinkercad*  
-```markdown
 ![Prototipo Tinkercad](./images/prototipo_tinkercad.png)
